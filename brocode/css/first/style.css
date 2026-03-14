@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(0, 0%, 21%);
+}
+h1{
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odd{
+    color: red;
+}
+.even{
+    color: blue;
+}
+#p1{
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p2{
+    color: rgb(102, 222, 255);
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p3{
+    color: #59ff5f;
+    font-family: "MedievalSharp";
+}
+#p4{
+    color: hsl(281, 100%, 56%);
+}

@@ -1,0 +1,37 @@
+h1{
+    border-style: solid;
+    border-width: 3.5px;
+    border-color: hsl(273, 100%, 54%);
+    border-radius: 10px;
+    text-shadow: 3px 3px 5px red, -3px -3px 5px blue;
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    box-shadow: 3px 3px 5px;
+}
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+#box2{
+    background-color: blueviolet;
+    margin-bottom: 10px;
+}
+#box3{
+    background-color: rgb(233, 152, 47);
+}
+
+p{
+    border-bottom: 3px solid rgb(226, 28, 28);
+    border-top: 3px solid rgb(255, 255, 35);
+    border-left: 3px dotted rgb(255, 179, 37);
+    border-right: 3px dotted rgb(252, 170, 19);
+}
